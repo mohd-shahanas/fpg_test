@@ -1,3 +1,4 @@
+#!/usr/bin/env python -u
 import pytest
 import logging
 from pytest_testrail.plugin import pytestrail
